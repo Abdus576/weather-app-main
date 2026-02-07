@@ -22,7 +22,7 @@ Before you begin, ensure you have the following installed:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/faisalinfinity/weather-app.git
+   git clone https://github.com/Abdus576/weather-app-main.git
    cd weather-forecast-app
    ```
 
@@ -46,8 +46,6 @@ To start the development server:
 ```
 npm run dev
 ```
-
-The application will be available at `http://localhost:5173` (or another port if 5173 is in use).
 
 ## Building for Production
 
